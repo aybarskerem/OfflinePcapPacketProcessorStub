@@ -1,0 +1,6 @@
+/home/aybars/Desktop/GITHUB_CHALLENGES/offline_pcap_packet_processor/build/CMakeFiles/rebuild_cache.dir
+/home/aybars/Desktop/GITHUB_CHALLENGES/offline_pcap_packet_processor/build/CMakeFiles/edit_cache.dir
+/home/aybars/Desktop/GITHUB_CHALLENGES/offline_pcap_packet_processor/build/CMakeFiles/offline_pcap_packet_processor.dir
+/home/aybars/Desktop/GITHUB_CHALLENGES/offline_pcap_packet_processor/build/test/CMakeFiles/rebuild_cache.dir
+/home/aybars/Desktop/GITHUB_CHALLENGES/offline_pcap_packet_processor/build/test/CMakeFiles/edit_cache.dir
+/home/aybars/Desktop/GITHUB_CHALLENGES/offline_pcap_packet_processor/build/test/CMakeFiles/offline_pcap_packet_processor_test.dir
